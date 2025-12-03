@@ -1,0 +1,11 @@
+title,artist,top genre,bpm,energy,danceability,liveness,valence,acousticness,speechiness,audio_cluster,pca_x,pca_y,distance,display_title,display_artist
+Bohemian Rhapsody - 2011 Mix,Queen,rock,144,40,39,24,23,29,5,2,-2.7515145450251426,-1.1524278790493856,3.9113928053442444,Bohemian Rhapsody - 2011 Mix,Queen
+Dream On,Aerosmith,rock,161,43,31,33,22,39,3,2,-3.255842089721191,-1.4007309114994975,3.9253855725862854,Dream On,Aerosmith
+Knockin' On Heaven's Door - Remastered,Bob Dylan,rock,140,40,51,11,23,25,3,2,-2.435715977425565,-0.6101472660729895,4.435942786110459,Knockin' On Heaven's Door - Remastered,Bob Dylan
+Dust in the Wind,Kansas,rock,94,32,48,11,39,37,3,2,-3.067705456678477,0.06032600896878441,4.543332759549253,Dust in the Wind,Kansas
+More Than a Feeling,Boston,rock,109,68,38,5,29,0,3,1,-0.5906279583399474,-1.672448607350082,5.08254431725704,More Than a Feeling,Boston
+Mr. Blue Sky,Electric Light Orchestra,rock,178,34,39,25,48,65,3,2,-4.111745645929056,0.2398746847060504,5.308960099723448,Mr. Blue Sky,Electric Light Orchestra
+Piano Man,Billy Joel,rock,178,55,33,19,43,61,3,2,-3.319290522777265,-0.5679963509581207,5.515738508173111,Piano Man,Billy Joel
+Wish You Were Here,Pink Floyd,rock,123,26,48,83,38,74,4,2,-4.664334868201281,0.4697981254146119,5.63445063436214,Wish You Were Here,Pink Floyd
+Sweet Emotion,Aerosmith,rock,99,76,38,10,49,0,4,6,-0.000770986068854126,-1.1574569956426681,5.839186728969381,Sweet Emotion,Aerosmith
+Like a Stone,Audioslave,rock,108,57,61,10,52,1,3,3,-0.32293890987549306,0.2795937408077819,5.978713611579872,Like a Stone,Audioslave
